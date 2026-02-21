@@ -1,91 +1,74 @@
-# 👋 Bonjour, moi c’est Karim
+<!-- ================= Banner ================= -->
+<p align="center">
+  <img src="./assets/Banner.png" alt="Karim | Full Stack Developer" width="100%" />
+</p>
 
-Développeur Full Stack orienté Back-End, spécialisé dans la conception d’API sécurisées et l’architecture d’applications web robustes.
+<!-- ================= Social ================= -->
+<p align="right">
+  <a href="https://www.linkedin.com/in/karim-r-858a13215" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/DayZmooN" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" />
+  </a>
+</p>
 
-J’accorde une vraie importance à la qualité du code, à la structure des projets et aux bonnes pratiques (séparation des responsabilités, sécurité, tests, maintenance).
+<p>
+  <img src="https://komarev.com/ghpvc/?username=DayZmooN&label=Profile%20views&color=red&style=for-the-badge" alt="Profile views" />
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 🛠️ Stack Technique
+<h2>👋 Hi, I'm Karim</h2>
 
-### 🔹 Back-End
-- Java
-- Spring Boot
-- Spring Security
-- JWT
-- JPA / Hibernate
-- REST API
-- PostgREST
+Full Stack Developer focused on building secure and maintainable web applications.
 
-### 🔹 Front-End
-- Angular
-- JavaScript
-- HTML / CSS
+I design structured REST APIs using **Java & Spring Boot** and build dynamic front-end applications with **Angular**.
 
-### 🔹 Base de données & Outils
-- MySQL
-- PostgreSQL
-- Docker
-- Git
-- Postman
+I value clean architecture, security, and long-term maintainability.
 
-### 🔹 Tests
-- JUnit
-- Mockito
-- MockMvc
+- 🔐 Focus: **Spring Boot / Spring Security / JWT / Clean Architecture**
+- 🧪 Testing: **JUnit / Mockito / MockMvc**
+- 🚀 Exploring: **DevOps / Docker / scalable architectures**
 
 ---
 
-## 🚀 Projets Principaux
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,hibernate,maven,angular,ts,js,html,css,sass,symfony,php,postgresql,mysql,mongodb,postgrest,docker,git,github,postman&theme=dark&titles=true" alt="Skills" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🔹 LesBonsServices
-Plateforme de gestion de rendez-vous entre clients et professionnels.
-
-**Fonctionnalités :**
-- Authentification sécurisée avec JWT
-- Gestion des rôles (USER / PROFESSIONAL / ADMIN)
-- Validation des données
-- Gestion centralisée des erreurs (Global Exception Handler)
-- Tests unitaires et tests API
-- Architecture claire (Controller / Service / Repository / DTO)
-
----
+Appointment management platform connecting clients and professionals.  
+**Highlights:** JWT authentication, role-based access, validation, global exception handling, unit testing, clean layered architecture.
 
 ### 🔹 Formatech
-Backend de gestion d’établissement scolaire.
-
-**Points techniques :**
-- Architecture en couches
-- DTO & mapping
-- Relations JPA
-- Persistance en base (MySQL)
-- Gestion centralisée des exceptions
+Educational management backend.  
+**Highlights:** JPA relationships, DTO mapping, database persistence, structured architecture.
 
 ---
 
-## 🧠 Domaines d’intérêt
+<details>
+  <summary>📊 <b>GitHub Stats</b></summary>
+  <br/>
 
-- Sécurisation d’API REST
-- Architecture maintenable
-- Refactoring
-- Tests unitaires
-- Clean Code
+  <p>
+    <img src="https://streak-stats.demolab.com?user=DayZmooN&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </p>
 
----
+  <p>
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DayZmooN&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </p>
 
-## 📚 En apprentissage continu
+</details>
 
-- Microservices avec Spring Boot
-- Architecture distribuée
-- Optimisation des performances
-- DevOps & conteneurisation
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
----
-
-## 📫 Me contacter
-
-LinkedIn : https://fr.linkedin.com/in/karim-r-858a13215
-
----
-
-> "Un code propre aujourd’hui évite les problèmes demain."
+<p align="center">
+  <i>"Clean code today prevents problems tomorrow."</i>
+</p>
